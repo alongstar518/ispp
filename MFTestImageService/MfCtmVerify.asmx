@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="MfCtmVerify.asmx.cs" Class="MFTestImageService.MfCtmVerify" %>
